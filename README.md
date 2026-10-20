@@ -1,4 +1,4 @@
-# Lab Cola: Replicating Coca-Cola from Scratch
+# Bear Cola: Replicating Coca-Cola from Scratch
 
 A from-scratch cola recipe reverse-engineered using mass spectrometry, published flavor-chemistry research, and about a year of trial and error by [LabCoatz_Science](https://youtu.be/TDkH3EbWTYc). It doesn't use decocainized coca leaf extract (that's federally restricted), but chemically it gets as close as possible without it, and blind taste-testers regularly mistook it for the real thing.
 
